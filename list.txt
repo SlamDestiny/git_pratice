@@ -10,6 +10,11 @@ Meat
 
 
 Dairy
+Milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 
 Household
